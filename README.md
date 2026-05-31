@@ -4,7 +4,7 @@
 A production-ready, high-performance static web application built to streamline guest management, event scheduling, and real-time response tracking. This site is fully deployed and actively serving real-world users.
 
 ## 🚀 Live Demo
-[👉 Click here to view the live application](YOUR_DEPLOYED_GITHUB_PAGES_LINK_HERE)
+[👉 Click here to view the live application](https://trinsec999.github.io/Wedding-rsvp/)
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, Tailwind CSS (via CDN), Google Fonts API
